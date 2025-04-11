@@ -4,12 +4,12 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <a href="https://www.linkedin.com/in/ramlakhan-chauhan-a8a115269"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+</div> -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rdsravi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -26,14 +26,14 @@
 
 ###
 
-<p align="center">A passionate Web and App developer.</p>
+<p align="center">A passionate App and Web developer.</p>
 
 ###
 
-<p align="center">🌱 I’m currently learning **React, React Native**<br><br>- 👯 I’m looking to collaborate on **Android Projects**<br><br>- 👨‍💻 Visit at https://eramkumar.netlify.app<br><br>- 📫 How to reach me **e.ramkumar00@gmail.com**</p>
+<p align="center">🌱 I’m currently working on **Flutter**<br><br>- 👯 I’m looking to collaborate on **Android Projects**<br><br>- 👨‍💻 Visit at https://rdsravi.github.io/raviprakash/<br><br>- 📫 How to reach me **w.ravi.prakash@gmail.com**</p>
 
 ###
-
+<!--
 <h3 align="center">🛠 Programming Languages</h3>
 
 ###
@@ -105,20 +105,22 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rdsravi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rdsravi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdsravi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
 ### ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rdsravi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<!--
 ### 😂 Meme of the day
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rdsravi&icon=0&color=0)](https://visitcount.itsvg.in)
