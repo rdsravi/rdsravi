@@ -15,7 +15,7 @@
 - 💬 Ask me about **Flutter**, **Android (Kotlin/Java)**, **UI/UX**, and **real-time app features**
 - 🧠 Passionate about building innovative, scalable, and optimized mobile experiences
 - 📫 Reach me at: **w.ravi.prakash@gmail.com**
-- 🌐 Portfolio: [raviprakash.in](https://rdsravi.github.io/raviprakash/)
+- 🌐 Portfolio: [raviprakash](https://rdsravi.github.io/raviprakash/)
 
 ---
 
