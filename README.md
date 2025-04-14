@@ -15,7 +15,7 @@
 - 💬 Ask me about **Flutter**, **Android (Kotlin/Java)**, **UI/UX**, and **real-time app features**
 - 🧠 Passionate about building innovative, scalable, and optimized mobile experiences
 - 📫 Reach me at: **w.ravi.prakash@gmail.com**
-- 🌐 Portfolio: [raviprakash.in](https://raviprakash.in)
+- 🌐 Portfolio: [raviprakash.in](https://rdsravi.github.io/raviprakash/)
 
 ---
 
@@ -81,7 +81,7 @@
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/raviprakash-rds" target="_blank">
+  <a href="https://linkedin.com/in/ravi-prakash-rds" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:w.ravi.prakash@gmail.com">
@@ -90,7 +90,7 @@
   <a href="https://github.com/rdsravi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://raviprakash.in" target="_blank">
+  <a href="https://rdsravi.github.io/raviprakash/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-darkgreen?style=flat&logo=google-chrome&logoColor=white" />
   </a>
 </p>
