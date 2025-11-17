@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://raviprakash.in" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+%26+Android+Developer;Mobile+App+Developer;UI/UX+Designer;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+%26+Android+Developer;Software+Developer;Website+Developeer;Mobile+App+Developer;UI/UX+Designer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
