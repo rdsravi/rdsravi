@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi Prakash</h1>
+<h1 align="center">Hi 👋 I'm Ravi Prakash</h1>
 
 <p align="center">
   <a href="https://raviprakash.in" target="_blank">
