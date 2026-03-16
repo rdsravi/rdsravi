@@ -2,20 +2,56 @@
 
 <p align="center">
   <a href="https://raviprakash.in" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+%26+Android+Developer;Software+Developer;Website+Developeer;Mobile+App+Developer;UI/UX+Designer;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+%26+Android+Developer;Software+Developer;Website+Developer;Mobile+App+Developer;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
+</p>
+
+---
+
+### 🚀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rdsravi&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
 ### 📍 About Me
 
-- 🔭 I’m currently working on **real-world Android and Flutter applications**
-- 🌱 Continuously learning advanced **mobile architectures**, **Firebase**, and **API integrations**
-- 💬 Ask me about **Flutter**, **Android (Kotlin/Java)**, **UI/UX**, and **real-time app features**
-- 🧠 Passionate about building innovative, scalable, and optimized mobile experiences
-- 📫 Reach me at: **w.ravi.prakash@gmail.com**
-- 🌐 Portfolio: [raviprakash](https://rdsravi.github.io/raviprakash/)
+* 🔭 I’m currently working on **real-world Android and Flutter applications**
+* 🌱 Continuously learning advanced **mobile architectures**, **Firebase**, and **API integrations**
+* 💬 Ask me about **Flutter**, **Android (Kotlin/Java)**, **UI/UX**, and **real-time app features**
+* 🧠 Passionate about building innovative, scalable, and optimized mobile experiences
+* 📫 Reach me at: **[w.ravi.prakash@gmail.com](mailto:w.ravi.prakash@gmail.com)**
+* 🌐 Portfolio: [raviprakash](https://rdsravi.github.io/raviprakash/)
+
+---
+
+# 🔥 Animated Skill Progress
+
+### Flutter
+
+![Flutter](https://progress-bar.dev/90/?title=Flutter\&width=500)
+
+### Dart
+
+![Dart](https://progress-bar.dev/85/?title=Dart\&width=500)
+
+### Kotlin
+
+![Kotlin](https://progress-bar.dev/75/?title=Kotlin\&width=500)
+
+### Android Development
+
+![Android](https://progress-bar.dev/85/?title=Android\&width=500)
+
+### Firebase
+
+![Firebase](https://progress-bar.dev/80/?title=Firebase\&width=500)
+
+### UI/UX Design
+
+![UIUX](https://progress-bar.dev/80/?title=UI%2FUX\&width=500)
 
 ---
 
@@ -29,11 +65,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 
   <!-- Web Development -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 
   <!-- Tools & Platforms -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
@@ -47,6 +85,29 @@
 
 > 💡 Also experienced with: Android SDK, Android Jetpack, REST APIs, DRM, ADB, Android Emulator, APK Analyzer, Android Profiler, Firebase Auth, UI/UX Design, and SDLC practices.
 
+---
+
+# 📦 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/rdsravi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rdsravi&repo=PROJECT_NAME_1&theme=radical" />
+</a>
+
+<a href="https://github.com/rdsravi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rdsravi&repo=PROJECT_NAME_2&theme=radical" />
+</a>
+
+<a href="https://github.com/rdsravi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rdsravi&repo=PROJECT_NAME_3&theme=radical" />
+</a>
+
+<a href="https://github.com/rdsravi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rdsravi&repo=PROJECT_NAME_4&theme=radical" />
+</a>
+
+</p>
 
 ---
 
@@ -78,6 +139,14 @@
 
 ---
 
+# 🧠 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rdsravi/rdsravi/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ### 🔗 Let's Connect
 
 <p align="left">
@@ -95,10 +164,6 @@
   </a>
 </p>
 
-
 ---
 
-> 💡 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
-
-
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
