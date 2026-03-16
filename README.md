@@ -87,29 +87,28 @@
 
 ---
 
-# 📦 Featured Projects
+---
+
+## 📊 Contribution Activity
 
 <p align="center">
-
-<a href="https://github.com/rdsravi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rdsravi&repo=PROJECT_NAME_1&theme=radical" />
-</a>
-
-<a href="https://github.com/rdsravi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rdsravi&repo=PROJECT_NAME_2&theme=radical" />
-</a>
-
-<a href="https://github.com/rdsravi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rdsravi&repo=PROJECT_NAME_3&theme=radical" />
-</a>
-
-<a href="https://github.com/rdsravi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rdsravi&repo=PROJECT_NAME_4&theme=radical" />
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdsravi&theme=react-dark&hide_border=true" />
 </p>
 
 ---
+
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,android,html,css,js,firebase,git,github,vscode,linux" />
+</p>
+
+---
+
+
 
 ### 📊 GitHub Stats
 
