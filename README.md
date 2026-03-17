@@ -28,7 +28,7 @@
 * 🧠 Passionate about building innovative, scalable, and optimized mobile experiences
 * 📫 Reach me at: **[w.ravi.prakash@gmail.com](mailto:w.ravi.prakash@gmail.com)**
  <p align="center">
-  <a href="[https://raviprakash.in](https://rdsravi.github.io/raviprakash)">
+  <a href="https://rdsravi.github.io/raviprakash">
     <img src="https://img.shields.io/badge/View%20Portfolio-Click%20Here-blue?style=for-the-badge" />
   </a>
 </p>
