@@ -27,6 +27,14 @@
 
 ---
 
+# 🧠 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/rdsravi/rdsravi/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 # 🔥 Animated Skill Progress
 
 ### Flutter
@@ -134,14 +142,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdsravi&layout=compact&theme=radical" />
-</p>
-
----
-
-# 🧠 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rdsravi/rdsravi/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
