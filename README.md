@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋 I'M</h1>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Ravi%20Prakash&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
@@ -26,7 +27,12 @@
 * 💬 Ask me about **Flutter**, **Android (Kotlin/Java)**, **UI/UX**, and **real-time app features**
 * 🧠 Passionate about building innovative, scalable, and optimized mobile experiences
 * 📫 Reach me at: **[w.ravi.prakash@gmail.com](mailto:w.ravi.prakash@gmail.com)**
-* 🌐 Portfolio: [raviprakash](https://rdsravi.github.io/raviprakash/)
+ <p align="center">
+  <a href="[https://raviprakash.in](https://rdsravi.github.io/raviprakash)">
+    <img src="https://img.shields.io/badge/View%20Portfolio-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
+
 
 ---
 
@@ -70,16 +76,11 @@
 
 ---
 
----
-
 ## 📊 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdsravi&theme=react-dark&hide_border=true" />
 </p>
-
----
-
 
 ---
 
