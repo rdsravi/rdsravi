@@ -44,35 +44,55 @@
 
 ---
 
-### 🧰 Technical Skills & Tools
+## 🚀 Tech Stack
 
-<p align="left">
-  <!-- Mobile Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+<h3 align="center"> 📱 Mobile Development </h3>
 
-  <!-- Web Development -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-
-  <!-- Tools & Platforms -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,apple" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48"/>
 </p>
 
+<p align="center">
+<b>Platforms:</b> Android • iOS
+</p>
+
+---
+
+<h3 align="center">  🌐 Web Development </h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+---
+
+<h3 align="center">  ⚙️ Backend & Server </h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,php,python" />
+</p>
+
+---
+
+<h3 align="center">  🔥 Backend & Cloud </h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+---
+
+<h3 align="center">  🛠 Tools & Platforms </h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,apple" />
+</p>
+
+---
+
 > 💡 Also experienced with: Android SDK, Android Jetpack, REST APIs, DRM, ADB, Android Emulator, APK Analyzer, Android Profiler, Firebase Auth, UI/UX Design, and SDLC practices.
+
 
 ---
 
@@ -83,16 +103,6 @@
 </p>
 
 ---
-
-## 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,android,html,css,js,firebase,git,github,vscode,linux" />
-</p>
-
----
-
-
 
 ### 📊 GitHub Stats
 
