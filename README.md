@@ -35,34 +35,6 @@
 
 ---
 
-# 🔥 Animated Skill Progress
-
-### Flutter
-
-![Flutter](https://progress-bar.dev/90/?title=Flutter\&width=500)
-
-### Dart
-
-![Dart](https://progress-bar.dev/85/?title=Dart\&width=500)
-
-### Kotlin
-
-![Kotlin](https://progress-bar.dev/75/?title=Kotlin\&width=500)
-
-### Android Development
-
-![Android](https://progress-bar.dev/85/?title=Android\&width=500)
-
-### Firebase
-
-![Firebase](https://progress-bar.dev/80/?title=Firebase\&width=500)
-
-### UI/UX Design
-
-![UIUX](https://progress-bar.dev/80/?title=UI%2FUX\&width=500)
-
----
-
 ### 🧰 Technical Skills & Tools
 
 <p align="left">
