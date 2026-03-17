@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋 I'm Ravi Prakash</h1>
+<h1 align="center">Hi 👋 I'M</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Ravi%20Prakash&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</p>
 
 <p align="center">
   <a href="https://raviprakash.in" target="_blank">
@@ -30,7 +33,7 @@
 # 🧠 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rdsravi/rdsravi/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
