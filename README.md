@@ -27,31 +27,11 @@
 
 ---
 
-# 🔥 Animated Skill Progress
+# 🧠 Contribution Snake
 
-### Flutter
-
-![Flutter](https://progress-bar.dev/90/?title=Flutter\&width=500)
-
-### Dart
-
-![Dart](https://progress-bar.dev/85/?title=Dart\&width=500)
-
-### Kotlin
-
-![Kotlin](https://progress-bar.dev/75/?title=Kotlin\&width=500)
-
-### Android Development
-
-![Android](https://progress-bar.dev/85/?title=Android\&width=500)
-
-### Firebase
-
-![Firebase](https://progress-bar.dev/80/?title=Firebase\&width=500)
-
-### UI/UX Design
-
-![UIUX](https://progress-bar.dev/80/?title=UI%2FUX\&width=500)
+<p align="center">
+<img src="https://raw.githubusercontent.com/rdsravi/rdsravi/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -134,14 +114,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdsravi&layout=compact&theme=radical" />
-</p>
-
----
-
-# 🧠 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rdsravi/rdsravi/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
