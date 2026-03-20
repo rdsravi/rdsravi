@@ -116,10 +116,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rdsravi&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rdsravi&show_icons=true&theme=radical" />
 </p>
 
 ---
