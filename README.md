@@ -71,13 +71,7 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,php,python" />
-</p>
 
----
-
-<h3 align="center">  🔥 Backend & Cloud </h3>
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
@@ -104,29 +98,22 @@
 
 ---
 
-### 📊 GitHub Stats
+
+<h4 align="center"> ### 🏆 GitHub Trophies </h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdsravi&show_icons=true&theme=radical" />
+  <img src="https://gh-profile-trophy.vercel.app/?username=rdsravi&theme=radical" />
 </p>
+
+<h4 align="center"> ### 📊 GitHub Stats </h4>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rdsravi&theme=radical" />
 </p>
 
----
-
-### 🏆 Achievements
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rdsravi&show_icons=true&theme=radical" />
-</p>
 
----
-
-### 📈 Top Languages
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdsravi&layout=compact&theme=radical" />
 </p>
 
