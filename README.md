@@ -123,7 +123,7 @@
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/ravi-prakash-rds" target="_blank">
+  <a href="https://linkedin.com/in/r-avi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:w.ravi.prakash@gmail.com">
