@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'M</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Ravi%20Prakash&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:001f54&height=200&section=header&text=Ravi%20Prakash&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">
